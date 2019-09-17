@@ -5,9 +5,9 @@
 
 // Set these to run example.
 #define FIREBASE_HOST "testsmarthome-8bc97.firebaseio.com"
-#define FIREBASE_AUTH "7LQg1B5sQSVZQgTgwkfh6BvRgF7hImWIYJT1v5cd"
-#define WIFI_SSID "IoT-Research"
-#define WIFI_PASSWORD "Tapit168"
+#define FIREBASE_AUTH "7LQg1B5sQSVZQgTnwkfh6BvRgF7hImWIYJT1v5cd"
+#define WIFI_SSID "YOUR-SSID"
+#define WIFI_PASSWORD "YOUR-PASSWORD"
 
 char databuf[500];
 String strBrightness = "";
